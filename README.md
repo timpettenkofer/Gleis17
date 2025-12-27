@@ -1,5 +1,5 @@
-# Platform3
-A NYC subway countdown clock within the comforts of your own home.
+# Gleis17
+Forked from the NYC subway countdown clock "Platform3" and adjusted to Berlin transport.
 
 ![Gif of home made subway countdown clock with cool reflection over wooden table](https://user-images.githubusercontent.com/5365169/171101291-5e7b06ce-0cba-47dd-8b86-aed2dba16a6f.gif)
 
